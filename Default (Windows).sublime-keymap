@@ -1,0 +1,5 @@
+[
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+	{ "keys": ["ctrl+b"], "command": "open_browser" },
+	{ "keys": ["ctrl+shift+b"], "command": "build" },
+]
